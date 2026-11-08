@@ -170,5 +170,4 @@ jobs:
             artifacts/docker-ps.txt
           retention-days: 30
 
-      - name: Final summary
         
